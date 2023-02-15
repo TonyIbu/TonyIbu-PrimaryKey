@@ -1,0 +1,1 @@
+create table song(id serial primary key, Title varchar(100), Artist varchar(100));
